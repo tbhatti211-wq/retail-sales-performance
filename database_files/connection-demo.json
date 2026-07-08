@@ -1,0 +1,9 @@
+ {
+    "account": "account_name",
+    "user": "user_name",
+    "password": "password",
+    "role": "ACCOUNTADMIN",
+    "warehouse": "COMPUTE_WH",
+    "database": "retail_sales_performance",
+    "schema": "performances"
+}
