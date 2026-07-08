@@ -163,7 +163,7 @@ Three sections, all reading from pre-aggregated tables — no raw queries in the
 ### Dashboard Screenshots
 
 **Product Performance**
-![Product Performance](./screenshots/performance_dashboard_1.png)
+![Product Performance](./screenshots/performance dashboard 1.png)
 
 **Monthly Trends**
 ![Monthly Trends](./screenshots/performance_dashboard_2.png)
